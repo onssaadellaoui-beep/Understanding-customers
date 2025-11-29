@@ -16,6 +16,8 @@ Segment e-commerce customers using **RFM analysis** and **K-means clustering** t
 - **Machine Learning**: Scikit-learn (K-means)  
 - **Visualization**: Matplotlib, Seaborn  
 - **Other**: Jupyter Notebook / Google Colab
+  Dataset used: [Online Retail II] https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
 
 
 
